@@ -26,14 +26,15 @@ addon | version | maintainers | summary
 [account_cash_discount_write_off](account_cash_discount_write_off/) | 14.0.1.0.0 |  | Create an automatic writeoff for payment with discount on the payment order confirmation
 [account_cash_invoice](account_cash_invoice/) | 14.0.1.3.0 |  | Pay and receive invoices from bank statements
 [account_check_date](account_check_date/) | 14.0.1.0.0 | [![ps-tubtim](https://github.com/ps-tubtim.png?size=30px)](https://github.com/ps-tubtim) | Add check date on payment for check printing
-[account_due_list](account_due_list/) | 14.0.1.0.0 |  | List of open credits and debits, with due date
+[account_check_payee](account_check_payee/) | 14.0.1.0.0 | [![ps-tubtim](https://github.com/ps-tubtim.png?size=30px)](https://github.com/ps-tubtim) | Add payee on payment for check printing
+[account_due_list](account_due_list/) | 14.0.1.1.0 |  | List of open credits and debits, with due date
 [account_due_list_aging_comment](account_due_list_aging_comment/) | 14.0.1.0.0 |  | Account Due List Aging Comment
 [account_due_list_days_overdue](account_due_list_days_overdue/) | 14.0.1.0.0 |  | Payments Due list days overdue
 [account_due_list_payment_mode](account_due_list_payment_mode/) | 14.0.1.0.0 |  | Payment Due List Payment Mode
 [account_financial_discount](account_financial_discount/) | 14.0.1.0.0 | [![grindtildeath](https://github.com/grindtildeath.png?size=30px)](https://github.com/grindtildeath) | Handle financial discounts for early payments
 [account_payment_batch_process](account_payment_batch_process/) | 14.0.1.0.0 |  | Account Batch Payments Processing for Customers Invoices and Supplier Invoices
 [account_payment_batch_process_discount](account_payment_batch_process_discount/) | 14.0.1.0.1 | [![mgosai](https://github.com/mgosai.png?size=30px)](https://github.com/mgosai) | Discount on batch payments
-[account_payment_credit_card](account_payment_credit_card/) | 14.0.1.0.1 | [![max3903](https://github.com/max3903.png?size=30px)](https://github.com/max3903) | Add support for credit card payments
+[account_payment_credit_card](account_payment_credit_card/) | 14.0.1.0.2 | [![max3903](https://github.com/max3903.png?size=30px)](https://github.com/max3903) | Add support for credit card payments
 [account_payment_multi_deduction](account_payment_multi_deduction/) | 14.0.1.1.0 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Payment Register with Multiple Deduction
 [account_payment_paired_internal_transfer](account_payment_paired_internal_transfer/) | 14.0.1.0.0 |  | Crete internal transfers in one move.
 [account_payment_return](account_payment_return/) | 14.0.1.0.4 |  | Manage the return of your payments
