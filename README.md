@@ -29,14 +29,14 @@ addon | version | maintainers | summary
 [account_check_date](account_check_date/) | 14.0.1.0.0 | [![ps-tubtim](https://github.com/ps-tubtim.png?size=30px)](https://github.com/ps-tubtim) | Add check date on payment for check printing
 [account_check_payee](account_check_payee/) | 14.0.1.0.0 | [![ps-tubtim](https://github.com/ps-tubtim.png?size=30px)](https://github.com/ps-tubtim) | Add payee on payment for check printing
 [account_check_printing_report_base](account_check_printing_report_base/) | 14.0.1.0.0 |  | Account Check Printing Report Base
-[account_check_printing_report_sslm102](account_check_printing_report_sslm102/) | 14.0.1.0.0 |  | Allows you to print SSLM102 lined checks.
+[account_check_printing_report_sslm102](account_check_printing_report_sslm102/) | 14.0.1.0.1 |  | Allows you to print SSLM102 lined checks.
 [account_due_list](account_due_list/) | 14.0.1.2.0 |  | List of open credits and debits, with due date
 [account_due_list_aging_comment](account_due_list_aging_comment/) | 14.0.1.0.0 |  | Account Due List Aging Comment
 [account_due_list_days_overdue](account_due_list_days_overdue/) | 14.0.1.0.0 |  | Payments Due list days overdue
 [account_due_list_edit_inline](account_due_list_edit_inline/) | 14.0.1.0.0 |  | Account List Inline Edit
 [account_due_list_payment](account_due_list_payment/) | 14.0.1.0.0 |  | Allows you to make payments directly from the due list view
 [account_due_list_payment_mode](account_due_list_payment_mode/) | 14.0.1.0.0 |  | Payment Due List Payment Mode
-[account_financial_discount](account_financial_discount/) | 14.0.1.0.0 | [![grindtildeath](https://github.com/grindtildeath.png?size=30px)](https://github.com/grindtildeath) | Handle financial discounts for early payments
+[account_financial_discount](account_financial_discount/) | 14.0.1.0.1 | [![grindtildeath](https://github.com/grindtildeath.png?size=30px)](https://github.com/grindtildeath) | Handle financial discounts for early payments
 [account_payment_batch_process](account_payment_batch_process/) | 14.0.1.0.0 |  | Account Batch Payments Processing for Customers Invoices and Supplier Invoices
 [account_payment_batch_process_discount](account_payment_batch_process_discount/) | 14.0.1.0.1 | [![mgosai](https://github.com/mgosai.png?size=30px)](https://github.com/mgosai) | Discount on batch payments
 [account_payment_credit_card](account_payment_credit_card/) | 14.0.1.0.2 | [![max3903](https://github.com/max3903.png?size=30px)](https://github.com/max3903) | Add support for credit card payments
@@ -45,7 +45,7 @@ addon | version | maintainers | summary
 [account_payment_multi_deduction](account_payment_multi_deduction/) | 14.0.1.1.0 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Payment Register with Multiple Deduction
 [account_payment_paired_internal_transfer](account_payment_paired_internal_transfer/) | 14.0.1.0.1 |  | Crete internal transfers in one move.
 [account_payment_register_keep_amount](account_payment_register_keep_amount/) | 14.0.1.0.0 |  | Keep set amount during Payment registration.
-[account_payment_return](account_payment_return/) | 14.0.1.0.6 |  | Manage the return of your payments
+[account_payment_return](account_payment_return/) | 14.0.1.0.7 |  | Manage the return of your payments
 [account_payment_return_import](account_payment_return_import/) | 14.0.1.0.2 |  | This module adds a generic wizard to import payment returnfile formats. Is only the base to be extended by anothermodules
 [account_payment_return_import_iso20022](account_payment_return_import_iso20022/) | 14.0.2.0.1 |  | This addon allows to import payment returns from ISO 20022 files like PAIN or CAMT.
 [account_payment_term_discount](account_payment_term_discount/) | 14.0.1.1.7 | [![bodedra](https://github.com/bodedra.png?size=30px)](https://github.com/bodedra) | Account Payment Terms Discount
