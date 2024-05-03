@@ -34,7 +34,7 @@ addon | version | maintainers | summary
 [account_due_list_aging_comment](account_due_list_aging_comment/) | 14.0.1.0.0 |  | Account Due List Aging Comment
 [account_due_list_days_overdue](account_due_list_days_overdue/) | 14.0.1.0.0 |  | Payments Due list days overdue
 [account_due_list_edit_inline](account_due_list_edit_inline/) | 14.0.1.0.0 |  | Account List Inline Edit
-[account_due_list_payment](account_due_list_payment/) | 14.0.1.0.0 |  | Allows you to make payments directly from the due list view
+[account_due_list_payment](account_due_list_payment/) | 14.0.1.0.1 |  | Allows you to make payments directly from the due list view
 [account_due_list_payment_mode](account_due_list_payment_mode/) | 14.0.1.0.0 |  | Payment Due List Payment Mode
 [account_financial_discount](account_financial_discount/) | 14.0.1.0.1 | [![grindtildeath](https://github.com/grindtildeath.png?size=30px)](https://github.com/grindtildeath) | Handle financial discounts for early payments
 [account_payment_batch_process](account_payment_batch_process/) | 14.0.1.0.0 |  | Account Batch Payments Processing for Customers Invoices and Supplier Invoices
@@ -53,7 +53,7 @@ addon | version | maintainers | summary
 [account_payment_term_partner_holiday](account_payment_term_partner_holiday/) | 14.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Account Payment Term Partner Holiday
 [account_payment_terminal](account_payment_terminal/) | 14.0.1.0.0 | [![sbejaoui](https://github.com/sbejaoui.png?size=30px)](https://github.com/sbejaoui) | This addon allows to pay invoices using payment terminal
 [account_payment_view_check_number](account_payment_view_check_number/) | 14.0.1.0.0 |  | Account Payment View Check Number
-[account_payment_widget_amount](account_payment_widget_amount/) | 14.0.1.0.0 | [![ChrisOForgeFlow](https://github.com/ChrisOForgeFlow.png?size=30px)](https://github.com/ChrisOForgeFlow) | Extends the payment widget to be able to choose the payment amount
+[account_payment_widget_amount](account_payment_widget_amount/) | 14.0.1.0.1 | [![ChrisOForgeFlow](https://github.com/ChrisOForgeFlow.png?size=30px)](https://github.com/ChrisOForgeFlow) | Extends the payment widget to be able to choose the payment amount
 [partner_aging](partner_aging/) | 14.0.1.0.4 | [![smangukiya](https://github.com/smangukiya.png?size=30px)](https://github.com/smangukiya) | Aging as a view - invoices and credits
 [partner_restrict_payment_acquirer](partner_restrict_payment_acquirer/) | 14.0.1.0.0 | [![geomer198](https://github.com/geomer198.png?size=30px)](https://github.com/geomer198) [![CetmixGitDrone](https://github.com/CetmixGitDrone.png?size=30px)](https://github.com/CetmixGitDrone) | Partner Restrict Payment Acquirer
 [product_restrict_payment_acquirer](product_restrict_payment_acquirer/) | 14.0.1.0.0 | [![bearnard21](https://github.com/bearnard21.png?size=30px)](https://github.com/bearnard21) [![CetmixGitDrone](https://github.com/CetmixGitDrone.png?size=30px)](https://github.com/CetmixGitDrone) | Product Restrict Payment Acquirer
