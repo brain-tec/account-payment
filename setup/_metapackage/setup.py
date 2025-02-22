@@ -9,6 +9,7 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo-addon-account_cash_invoice>=16.0dev,<16.1dev',
+        'odoo-addon-account_check_printing_report_base>=16.0dev,<16.1dev',
         'odoo-addon-account_due_list>=16.0dev,<16.1dev',
         'odoo-addon-account_due_list_aging_comment>=16.0dev,<16.1dev',
         'odoo-addon-account_due_list_days_overdue>=16.0dev,<16.1dev',
