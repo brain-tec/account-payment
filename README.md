@@ -28,9 +28,11 @@ addon | version | maintainers | summary
 [account_due_list_days_overdue](account_due_list_days_overdue/) | 16.0.1.0.0 |  | Payments Due list days overdue
 [account_due_list_payment_mode](account_due_list_payment_mode/) | 16.0.1.0.0 |  | Payment Due List Payment Mode
 [account_move_line_payment](account_move_line_payment/) | 16.0.1.0.0 | [![yajo](https://github.com/yajo.png?size=30px)](https://github.com/yajo) [![rafaelbn](https://github.com/rafaelbn.png?size=30px)](https://github.com/rafaelbn) | Register only due payments
-[account_payment_batch_process](account_payment_batch_process/) | 16.0.1.0.0 |  | Account Batch Payments Processing for Customers Invoices and Supplier Invoices
+[account_payment_batch_process](account_payment_batch_process/) | 16.0.1.0.1 |  | Account Batch Payments Processing for Customers Invoices and Supplier Invoices
+[account_payment_batch_process_discount](account_payment_batch_process_discount/) | 16.0.1.0.0 | [![mgosai](https://github.com/mgosai.png?size=30px)](https://github.com/mgosai) | Discount on batch payments
 [account_payment_credit_card](account_payment_credit_card/) | 16.0.1.0.0 | [![max3903](https://github.com/max3903.png?size=30px)](https://github.com/max3903) | Add support for credit card payments
 [account_payment_line](account_payment_line/) | 16.0.1.0.1 | [![ChrisOForgeFlow](https://github.com/ChrisOForgeFlow.png?size=30px)](https://github.com/ChrisOForgeFlow) | Payment Counterpart Lines
+[account_payment_line_import](account_payment_line_import/) | 16.0.1.0.0 | [![ChrisOForgeFlow](https://github.com/ChrisOForgeFlow.png?size=30px)](https://github.com/ChrisOForgeFlow) | Payment Counterpart Lines Import XLSX
 [account_payment_multi_deduction](account_payment_multi_deduction/) | 16.0.1.0.0 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Payment Register with Multiple Deduction
 [account_payment_notification](account_payment_notification/) | 16.0.1.0.1 | [![yajo](https://github.com/yajo.png?size=30px)](https://github.com/yajo) | Notifiy upcoming payments
 [account_payment_promissory_note](account_payment_promissory_note/) | 16.0.1.0.1 |  | Account Payment Promissory Note
